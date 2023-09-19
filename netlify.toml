@@ -1,0 +1,4 @@
+[build]
+  base = "info_side" # To jest folder, w którym znajduje się Twój projekt
+  command = "npm run build" # Lub komenda do budowania projektu
+  publish = "info_side/build" # Lub ścieżka do katalogu build projektu
